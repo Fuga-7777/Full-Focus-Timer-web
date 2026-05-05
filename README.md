@@ -1,4 +1,4 @@
-# Forced-Focus-Timer-web
+# Full-Focus-Timer-web
 
 利用規約及びプライバシーポリシーの改訂履歴
 
